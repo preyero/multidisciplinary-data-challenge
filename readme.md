@@ -23,19 +23,12 @@ Here we provide more detailed instructions on what outputs each Jupyter Notebook
 
 ## Requirements
 
-TODO: update with the not private repo https://openincolab.com/
-
 The `challenge` is designed to run in a Google Colab environment. Together with the *data* and *eval_files* generated with 1 and 2 notebooks, participants start working the following supporting notebooks:
 
-https://github.com/preyero/multidisciplinary-data-challenge/tree/master/challenge/Challenge_part1.ipynb
-
-https://colab.research.google.com/github/preyero/multidisciplinary-data-challenge/blob/master/challenge/Challenge_part1.ipynb
-Another way is to add https://colab.research.google.com/github/ before the repository name in the notebook's URL. Let's say I have a Jupyter notebook on Github with the following URL: https://github.com/username/repository/blob/master/notebook.ipynb. To open this notebook in Google Colab, I can change the URL to https://colab.research.google.com/github/username/repository/blob/master/notebook.ipynb. This will open the notebook directly on Colab.
-
-- Part one in <a target="_blank" href="https://colab.research.google.com/github/https://anonymous.4open.science/r/multidisciplinary-data-challenge-F79F/challenge/Challenge_part1.ipynb">
+- Part [one](challenge/Challenge_part1.ipynb) in <a target="_blank" href="https://colab.research.google.com/github/https://anonymous.4open.science/r/multidisciplinary-data-challenge-F79F/Challenge_part1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>: basic data loading functions and features to get started.
-- Part two in <a target="_blank" href="https://colab.research.google.com/github/https://anonymous.4open.science/r/multidisciplinary-data-challenge-F79F/challenge/Challenge_part2.ipynb">
+- Part [two](challenge/Challenge_part2.ipynb) in <a target="_blank" href="https://colab.research.google.com/github/https://anonymous.4open.science/r/multidisciplinary-data-challenge-F79F/challenge/Challenge_part2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>: example hate speech classifier and evaluation instruments to conduct example-based bias assessments of the proposed models.
 
