@@ -1,9 +1,6 @@
 # multidisciplinary-data-challenge
 
-**A public version of this repository is hosted at the address: https://github.com/nobias-project/multidisciplinary-data-challenge**
-
-
-
+**A [public](https://github.com/nobias-project/multidisciplinary-data-challenge) version of this repository**
 This repository contains the data and code of the NoBIAS 2023 Data Challenge. The goal is to set an example and promote multidisciplinary participation in the discourse of technology development to address societal challenges.
 
 In a nutshell, this were the 🗝️ ingredients for the challenge:
@@ -49,4 +46,15 @@ The `challenge` is designed to run in a Google Colab environment. Participants c
     # Inside virtual environment to run notebooks with this conda environment
     (<env_name>) $ python -m ipykernel install --user --name=<env_name>
     (<env_name>) $ jupyter notebook
+```
+
+## Contact
+
+We published a [paper]() (under review) with the considerations and results from this data challenge.
+
+Reach out if you have any questions [📧]((mailto:paula.reyero-lobo@open.ac.uk)), especially if you are looking to involve multiple disciplines to work ⚙️ hands-on a problem!
+
+```
+
+
 ```
