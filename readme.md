@@ -28,7 +28,7 @@ Here we provide more detailed instructions on what outputs each Jupyter Notebook
 
 ## Requirements
 
-The `challenge` is designed to run in a Google Colab environment. Together with the *data* and *eval_files* generated with the preparation notebooks, participants can get started with:
+The `challenge` is designed to run in a Google Colab environment. Participants can get started with:
 
 - Part [one](challenge/Challenge_part1.ipynb) in <a target="_blank" href="https://colab.research.google.com/github/preyero/multidisciplinary-data-challenge/blob/master/challenge/Challenge_part1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
