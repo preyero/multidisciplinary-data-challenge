@@ -1,5 +1,9 @@
 # multidisciplinary-data-challenge
 
+**A public version of this repository is hosted at the address: https://github.com/nobias-project/multidisciplinary-data-challenge**
+
+
+
 This repository contains the data and code of the NoBIAS 2023 Data Challenge. The goal is to set an example and promote multidisciplinary participation in the discourse of technology development to address societal challenges.
 
 In a nutshell, this were the 🗝️ ingredients for the challenge:
