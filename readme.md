@@ -1,6 +1,6 @@
 # multidisciplinary-data-challenge
 
-**A [public](https://github.com/nobias-project/multidisciplinary-data-challenge) version of this repository**
+[![DOI](https://zenodo.org/badge/665530454.svg)](https://zenodo.org/badge/latestdoi/665530454)
 
 This repository contains the data and code of the NoBIAS 2023 Data Challenge. The goal is to set an example and promote multidisciplinary participation in the discourse of technology development to address societal challenges.
 
