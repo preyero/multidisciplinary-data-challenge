@@ -51,11 +51,25 @@ The `challenge` is designed to run in a Google Colab environment. Participants c
 
 ## Contact
 
-We published a [paper]() with the considerations and results from this data challenge.
+We published a [paper](https://oro.open.ac.uk/94708/) with the considerations and results from this data challenge.
 
 Reach out if you have any questions [📧](mailto:paula.reyero-lobo@open.ac.uk), especially if you are looking to involve multiple disciplines to work ⚙️ hands-on a problem!
 
 ```
-
+@inproceedings{10.1145/3625007.3627491,
+author = {Reyero Lobo, Paula and Kwarteng, Joseph and Russo, Mayra and Fahimi, Miriam and Scott, Kristen and Ferrara, Antonio and Sen, Indira and Fernandez, Miriam},
+title = {A Multidisciplinary Lens of Bias in Hate Speech},
+year = {2023},
+isbn = {9798400704093},
+publisher = {IEEE Press},
+url = {https://doi.org/10.1145/3625007.3627491},
+doi = {10.1145/3625007.3627491},
+booktitle = {Proceedings of the 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
+pages = {118-123},
+numpages = {5},
+keywords = {hate speech,bias, multidisciplinary methods},
+location = {Kusadasi, Turkey},
+series = {ASONAM '23}
+}
 
 ```
