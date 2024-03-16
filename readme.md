@@ -51,7 +51,7 @@ The `challenge` is designed to run in a Google Colab environment. Participants c
 
 ## Contact
 
-We published a [paper](https://oro.open.ac.uk/94708/) with the considerations and results from this data challenge.
+We published a [paper](https://dl.acm.org/doi/10.1145/3625007.3627491) ([slides](preparation/submission_8553.pdf)) with the considerations and results from this data challenge.
 
 Reach out if you have any questions [📧](mailto:paula.reyero-lobo@open.ac.uk), especially if you are looking to involve multiple disciplines to work ⚙️ hands-on a problem!
 
@@ -59,16 +59,18 @@ Reach out if you have any questions [📧](mailto:paula.reyero-lobo@open.ac.uk),
 @inproceedings{10.1145/3625007.3627491,
 author = {Reyero Lobo, Paula and Kwarteng, Joseph and Russo, Mayra and Fahimi, Miriam and Scott, Kristen and Ferrara, Antonio and Sen, Indira and Fernandez, Miriam},
 title = {A Multidisciplinary Lens of Bias in Hate Speech},
-year = {2023},
+year = {2024},
 isbn = {9798400704093},
-publisher = {IEEE Press},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3625007.3627491},
 doi = {10.1145/3625007.3627491},
-booktitle = {Proceedings of the 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
-pages = {118-123},
+abstract = {Hate speech detection systems may exhibit discriminatory behaviours. Research in this field has focused primarily on issues of discrimination toward the language use of minoritised communities and non-White aligned English. The interrelated issues of bias, model robustness, and disproportionate harms are weakly addressed by recent evaluation approaches, which capture them only implicitly. In this paper, we recruit a multidisciplinary group of experts to bring closer this divide between fairness and trustworthy model evaluation. Specifically, we encourage the experts to discuss not only the technical, but the social, ethical, and legal aspects of this timely issue. The discussion sheds light on critical bias facets that require careful considerations when deploying hate speech detection systems in society. Crucially, they bring clarity to different approaches for assessing, becoming aware of bias from a broader perspective, and offer valuable recommendations for future research in this field.},
+booktitle = {Proceedings of the International Conference on Advances in Social Networks Analysis and Mining},
+pages = {121–125},
 numpages = {5},
-keywords = {hate speech,bias, multidisciplinary methods},
-location = {Kusadasi, Turkey},
+keywords = {hate speech, bias, multidisciplinary methods},
+location = {<conf-loc>, <city>Kusadasi</city>, <country>Turkiye</country>, </conf-loc>},
 series = {ASONAM '23}
 }
 
